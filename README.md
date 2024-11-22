@@ -1,7 +1,7 @@
 # Taller OOP
 
-## Java Beans
-Crea los siguientes Java Beans:
+## POJOs
+Crea los siguientes POJOs:
 - Vehicule
   - Tipo de vehiculo (coche, moto, camión): Usar tipo enum
   - Velocidad máxima 
